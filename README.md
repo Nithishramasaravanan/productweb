@@ -588,8 +588,11 @@ contact.html
 ## Output:
 
 [!OUTPUT](./yo1.png)
+
 [!OUTPUT](./yo2.png)
+
 [!OUTPUT](./yo3.png)
+
 [!OUTPUT](./yo4.png)
 
 ## HTML Validator
